@@ -1,3 +1,4 @@
 brew install python-tk
 pip3 install autopep8
 autopep8 --in-place --aggressive python3/*/*.py
+wget http://judge.mipt.ru/mipt_cs_on_python3/extra/lab4/graphics.py
